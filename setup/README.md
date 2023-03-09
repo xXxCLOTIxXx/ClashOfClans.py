@@ -1,15 +1,14 @@
-<body>
-	<table align="center">
+<table align="center">
 		<tr> <th colspan="3">Library Information</th> </tr>
 		<tr>
-			<td>
-				<a href=''><img src="https://pbs.twimg.com/profile_images/525686734760067072/OhsWgbsr_400x400.png" height="30px">
-				 Library Documentation</a>
-			</td>
-			<td>
-				<a href=''><img src="https://raw.githubusercontent.com/github/explore/666de02829613e0244e9441b114edb85781e972c/topics/pip/pip.png" height="60px">
-				 Library in pypi</a>
-			</td>
+		<td>
+			<a href=''><img src="https://pbs.twimg.com/profile_images/525686734760067072/OhsWgbsr_400x400.png" height="30px">
+			 Library Documentation</a>
+		</td>
+		<td>
+			<a href=''><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="30px">
+			 GitHub</a>
+		</td>
 	</table>
 	<table align="center">
 		</tr>
@@ -38,5 +37,3 @@ import coc
 
 client = coc.Client("api token")
 ```
-
-</body>
