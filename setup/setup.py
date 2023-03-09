@@ -3,13 +3,13 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as file:
     long_description = file.read()
 
-link = ''
+link = 'https://github.com/xXxCLOTIxXx/ClashOfClans.py/archive/refs/heads/main.zip'
 ver = '1.0'
 
 setup(
     name = "ClashOfClans.py",
     version = ver,
-    url = "",
+    url = "https://github.com/xXxCLOTIxXx/ClashOfClans.py",
     download_url = link,
     license = "MIT",
     author = "Xsarz",

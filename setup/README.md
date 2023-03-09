@@ -2,11 +2,11 @@
 		<tr> <th colspan="3">Library Information</th> </tr>
 		<tr>
 		<td>
-			<a href=''><img src="https://pbs.twimg.com/profile_images/525686734760067072/OhsWgbsr_400x400.png" height="30px">
+			<a href='https://clashofclanspy.readthedocs.io/en/latest/'><img src="https://pbs.twimg.com/profile_images/525686734760067072/OhsWgbsr_400x400.png" height="30px">
 			 Library Documentation</a>
 		</td>
 		<td>
-			<a href=''><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="30px">
+			<a href='https://github.com/xXxCLOTIxXx/ClashOfClans.py'><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="30px">
 			 GitHub</a>
 		</td>
 	</table>
